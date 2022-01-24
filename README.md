@@ -1,4 +1,5 @@
 # GitHub for Developers
+# My new comment - here my additional details
 
 - Class Date: January 24 - 25, 2022
 - Facilitator: @chocrates
